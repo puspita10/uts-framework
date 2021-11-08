@@ -1,0 +1,27 @@
+CRITICAL - 2021-09-24 04:03:31 --> Invalid file: Hobi_view.php
+#0 C:\xampp\htdocs\CI4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Hobi_view.php')
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('Hobi_view', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Home.php(36): view('Hobi_view', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-24 04:31:41 --> Invalid file: Hobi_view.php
+#0 C:\xampp\htdocs\CI4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Hobi_view.php')
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('Hobi_view', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Home.php(36): view('Hobi_view', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-24 04:33:21 --> Invalid file: Hobi_view.php
+#0 C:\xampp\htdocs\CI4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Hobi_view.php')
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('Hobi_view', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Home.php(36): view('Hobi_view', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Home->Hobi()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

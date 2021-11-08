@@ -1,0 +1,114 @@
+CRITICAL - 2021-10-15 02:02:45 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:04:58 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:07:32 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:26:13 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:28:32 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:30:34 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:30:49 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:30:52 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:33:23 --> syntax error, unexpected '>'
+#0 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#4 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-15 02:40:48 --> Undefined variable: urldata
+#0 C:\xampp\htdocs\CI4\app\Views\urlshort\Index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\CI4\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#4 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#6 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#7 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-10-15 02:41:04 --> Undefined variable: no
+#0 C:\xampp\htdocs\CI4\app\Views\urlshort\Index.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\CI4\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\system\Common.php(1092): CodeIgniter\View\View->render('urlshort/Index', Array, true)
+#4 C:\xampp\htdocs\CI4\app\Controllers\Urlshort.php(18): view('urlshort/Index', Array)
+#5 C:\xampp\htdocs\CI4\system\CodeIgniter.php(802): App\Controllers\Urlshort->index()
+#6 C:\xampp\htdocs\CI4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Urlshort))
+#7 C:\xampp\htdocs\CI4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
